@@ -23,5 +23,9 @@
 hs_err_pid*
 /target/
 /.classpath
+<<<<<<< HEAD
 /.project
 /.settings
+=======
+/.project
+>>>>>>> branch 'master' of https://github.com/240369607/WechatP2.git
